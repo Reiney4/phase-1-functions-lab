@@ -41,7 +41,7 @@ describe('index.js', function() {
     });
   });
 
-  describe('calculatesFarePrice(start, destination)', function() {
+  describe('calculatesFarePrice(start, destcalculatesFarePrice(start, destinationination)', function() {
     it('gives customers a free sample', function() {
       expect(calculatesFarePrice(43, 44)).to.equal(0);
     });
